@@ -110,13 +110,6 @@ I'm particularly interested in building **intelligent robotic systems** that com
 
 My long-term goal is to work on systems where **AI doesn't just analyse information — it enables machines to understand their environment and take meaningful action in the physical world.**
 
----
-
-## 🐍 My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
 
 ---
 
