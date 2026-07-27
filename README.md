@@ -112,11 +112,10 @@ My long-term goal is to work on systems where **AI doesn't just analyse informat
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 My Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saim-ansari-tech&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saim-ansari-tech&layout=compact&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
